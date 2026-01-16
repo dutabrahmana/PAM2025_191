@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Project Akhir</string>
+    <!-- ======================
+        AUTH / LOGIN
+   ======================= -->
+    <string name="login_title">Login Admin</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_button">Masuk</string>
+    <string name="login_success">Login berhasil</string>
+    <string name="login_failed">Username atau password salah</string>
+    <string name="login_to_register">Belum punya akun? Daftar</string>
+
+
+    <!-- ======================
+         REGISTER
+    ======================= -->
+    <string name="register_title">Registrasi Admin</string>
+    <string name="register_username">Username</string>
+    <string name="register_email">Email</string>
+    <string name="register_password">Password</string>
+    <string name="register_phone">Nomor HP</string>
+    <string name="register_button">Daftar</string>
+    <string name="register_success">Registrasi berhasil</string>
+    <string name="register_failed">Registrasi gagal</string>
+    <string name="register_to_login">Sudah punya akun? Login</string>
+
+
+    <!-- ======================
+         DASHBOARD
+    ======================= -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_welcome">Selamat Datang</string>
+    <string name="dashboard_menu_penyakit">Data Penyakit</string>
+    <string name="dashboard_menu_kasus">Data Kasus</string>
+    <string name="dashboard_menu_laporan">Laporan</string>
+    <string name="dashboard_logout">Logout</string>
+
+
+    <!-- ======================
+         PENYAKIT
+    ======================= -->
+    <string name="penyakit_title">Data Penyakit Menular</string>
+    <string name="penyakit_add">Tambah Penyakit</string>
+    <string name="penyakit_edit">Edit Penyakit</string>
+    <string name="penyakit_delete">Hapus Penyakit</string>
+    <string name="penyakit_search_hint">Cari penyakit...</string>
+    <string name="penyakit_empty">Belum ada data penyakit</string>
+
+    <string name="penyakit_nama">Nama Penyakit</string>
+    <string name="penyakit_kategori">Kategori</string>
+    <string name="penyakit_gejala">Gejala</string>
+    <string name="penyakit_penularan">Cara Penularan</string>
+    <string name="penyakit_keparahan">Tingkat Keparahan</string>
+    <string name="penyakit_deskripsi">Deskripsi</string>
+
+
+    <!-- ======================
+         KASUS
+    ======================= -->
+    <string name="kasus_title">Data Kasus Penyakit</string>
+    <string name="kasus_add">Tambah Kasus</string>
+    <string name="kasus_edit">Edit Kasus</string>
+    <string name="kasus_delete">Hapus Kasus</string>
+    <string name="kasus_search_hint">Cari kasus berdasarkan wilayah atau penyakit</string>
+    <string name="kasus_empty">Belum ada data kasus</string>
+
+    <string name="kasus_kelurahan">Kelurahan</string>
+    <string name="kasus_kecamatan">Kecamatan</string>
+    <string name="kasus_kota">Kota</string>
+    <string name="kasus_tanggal">Tanggal Laporan</string>
+    <string name="kasus_baru">Kasus Baru</string>
+    <string name="kasus_perawatan">Dalam Perawatan</string>
+    <string name="kasus_sembuh">Sembuh</string>
+    <string name="kasus_meninggal">Meninggal</string>
+    <string name="kasus_catatan">Catatan</string>
+
+
+    <!-- ======================
+         LAPORAN
+    ======================= -->
+    <string name="laporan_title">Laporan dan Statistik</string>
+    <string name="laporan_total_kasus">Total Kasus</string>
+    <string name="laporan_per_penyakit">Kasus per Penyakit</string>
+    <string name="laporan_per_wilayah">Kasus per Wilayah</string>
+    <string name="laporan_filter">Filter Data</string>
+
+
+    <!-- ======================
+         DIALOG / GENERAL
+    ======================= -->
+    <string name="confirm_delete">Yakin ingin menghapus data ini?</string>
+    <string name="confirm_logout">Yakin ingin logout?</string>
+    <string name="action_yes">Ya</string>
+    <string name="action_no">Tidak</string>
+    <string name="action_save">Simpan</string>
+    <string name="action_cancel">Batal</string>
+    <string name="loading">Memuat data...</string>
+</resources>
